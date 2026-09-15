@@ -63,10 +63,10 @@
         default_layer {
             display-name = "DEF";
             bindings = <
-&kp Q     &kp W  &kp E  &kp R         &kp T          &kp DE_Z         &kp U        &kp I         &kp O       &kp P
-&kp A     &kp S  &kp D  &kp F         &kp G          &kp H            &kp J        &kp K         &kp L       &sl 4
-&kp DE_Y  &kp X  &kp C  &kp V         &kp B          &kp N            &kp M        &kp DE_COMMA  &kp DE_DOT  &qexcl
-                        &lt 1 ESCAPE  &mt TAB SPACE  &lt 5 BACKSPACE  &lt 2 ENTER
+&kp Q     &kp W  &kp E  &kp R         &kp T            &kp DE_Z         &kp U        &kp I         &kp O       &kp P
+&kp A     &kp S  &kp D  &kp F         &kp G            &kp H            &kp J        &kp K         &kp L       &sl 4
+&kp DE_Y  &kp X  &kp C  &kp V         &kp B            &kp N            &kp M        &kp DE_COMMA  &kp DE_DOT  &qexcl
+                        &lt 1 ESCAPE  &mt LCTRL SPACE  &lt 5 BACKSPACE  &lt 2 ENTER
             >;
         };
 

@@ -32,7 +32,7 @@ layers:
   - {t: ., s: ':'}
   - {t: '?', s: '!'}
   - {t: ESCAPE, h: NAV}
-  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:keyboard-tab$$'}
+  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-control$$'}
   - {t: '$$mdi:backspace-outline$$', h: SYS}
   - {t: ENTER, h: SYM1}
   NAV:

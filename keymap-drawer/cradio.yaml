@@ -31,10 +31,10 @@ layers:
   - {t: ',', s: ;}
   - {t: ., s: ':'}
   - {t: '?', s: '!'}
-  - NAV
-  - $$mdi:apple-keyboard-shift$$
-  - {t: '$$mdi:keyboard-space$$', h: SYS}
-  - SYM1
+  - {t: ESCAPE, h: NAV}
+  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:keyboard-tab$$'}
+  - {t: '$$mdi:backspace-outline$$', h: SYS}
+  - {t: ENTER, h: SYM1}
   NAV:
   - ESC
   - $$mdi:swap-horizontal$$
